@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-## Rohan Mishra
 
 I am a graduate analyst at [Capital Markets Divison of CSIPL (Citi)](https://www.citigroup.com/citi/) working on Anomaly Detection and Trade Settlement Analysis.
 
 I graduated from Delhi Technological University in 2019 with a major in Software Engineering. I did research as an undergraduate at [MIDAS Labs](http://midas.iiitd.edu.in/) at IIIT-Delhi.
 
-📫 How to reach me  
-    [Email](mailto://rohan.mishra1997@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rohan-mishra-a80a5b119/) / [Resume](assets/resume.pdf)
+### 📫 Contact  
+[Email](mailto://rohan.mishra1997@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rohan-mishra-a80a5b119/) / [Resume](assets/resume.pdf)
 
 ### 🌱 Research Interests  
 I am interested to work in Natural Language Processing, Machine Learning, and Computational Finance.  
