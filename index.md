@@ -2,12 +2,13 @@
 layout: default
 ---
 
-I am a graduate analyst at [Capital Markets Divison of CSIPL (Citi)](https://www.citigroup.com/citi/) working on Anomaly Detection and Trade Settlement Analysis.
+I am an incoming MS CS student at University of California San Diego.
+I completed by bachelors in Softwarer Engineering from Delhi Technological University in 2019. I did research as an undergraduate under [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) on using Social Graphs to understand Suicide Ideation and analysing Political Debates. 
 
-I graduated from Delhi Technological University in 2019 with a major in Software Engineering. I did research as an undergraduate at [MIDAS Labs](http://midas.iiitd.edu.in/) at IIIT-Delhi.
+I worked as a Graduate Analyst at Citi India on problems related to Anomaly Detection, Trade Settlement Analysis and Automated Incident Management. Subsequntly, I joined [Taktile](https://www.taktile.com/) as a Software Engineer to build a SaaS platform for ML driven decisioning.
 
-### 📫 Contact  
-[Email](mailto://rohan.mishra1997@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rohan-mishra-a80a5b119/) / [Resume](assets/resume.pdf)
+- 📫 How to reach me:
+    r2mishra [at] ucsd [dot] edu / [LinkedIn](https://www.linkedin.com/in/rohan-mishra-cs) / [Resume](assets/resume.pdf)
 
 ### 🌱 Research Interests  
 I am interested to work in Natural Language Processing, Machine Learning, and Computational Finance.  
