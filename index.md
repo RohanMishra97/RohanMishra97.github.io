@@ -8,7 +8,7 @@ I completed by bachelors in Softwarer Engineering from Delhi Technological Unive
 I worked as a Graduate Analyst at Citi India on problems related to Anomaly Detection, Trade Settlement Analysis and Automated Incident Management. Subsequntly, I joined [Taktile](https://www.taktile.com/) as a Software Engineer to build a SaaS platform for ML driven decisioning.
 
 - 📫 How to reach me:
-  r2mishra [at] ucsd [dot] edu / [LinkedIn](https://www.linkedin.com/in/rohan-mishra-cs) / [Resume](assets/resume.pdf) / [Google Scholar] (https://scholar.google.com/citations?user=Jo1VVzEAAAAJ)
+  r2mishra [at] ucsd [dot] edu / [LinkedIn](https://www.linkedin.com/in/rohan-mishra-cs) / [Resume](assets/resume.pdf) / [Google Scholar](https://scholar.google.com/citations?user=Jo1VVzEAAAAJ)
 
 ### 🌱 Research Interests
 
